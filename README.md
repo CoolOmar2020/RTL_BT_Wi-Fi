@@ -1,7 +1,7 @@
-rtlwifi_new
+RTL_BT_WiFi
 ===========
 
-A repo for the newest Realtek rtlwifi codes.
+A repo for the newest Realtek Bluetooth Combo and rtlwifi codes.
 
 This code will build on any kernel 3.0 and newer. It includes the following drivers:
 
